@@ -1,0 +1,666 @@
+Encontrados 28 casos de teste.
+
+============================================================
+Arquivo: 50.txt | N = 50 | Alvo = 42
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 50
+Indice Encontrado: 3 (-1 significa que nao existe)
+Tempo de execucao: 0.000042s | Comparacoes realizadas: 4
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 50
+Indice Encontrado: 25 (-1 significa que nao existe)
+Tempo de execucao: 0.000036s | Comparacoes realizadas: 8
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 50
+Indice Encontrado: 25 (-1 significa que nao existe)
+Tempo de execucao: 0.000018s | Comparacoes realizadas: 5
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 100.txt | N = 100 | Alvo = 94
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 100
+Indice Encontrado: 86 (-1 significa que nao existe)
+Tempo de execucao: 0.000085s | Comparacoes realizadas: 87
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 100
+Indice Encontrado: 50 (-1 significa que nao existe)
+Tempo de execucao: 0.000024s | Comparacoes realizadas: 6
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 100
+Indice Encontrado: 50 (-1 significa que nao existe)
+Tempo de execucao: 0.000019s | Comparacoes realizadas: 6
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 200.txt | N = 200 | Alvo = 213
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 200
+Indice Encontrado: 92 (-1 significa que nao existe)
+Tempo de execucao: 0.000094s | Comparacoes realizadas: 93
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 200
+Indice Encontrado: 100 (-1 significa que nao existe)
+Tempo de execucao: 0.000028s | Comparacoes realizadas: 10
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 200
+Indice Encontrado: 100 (-1 significa que nao existe)
+Tempo de execucao: 0.000021s | Comparacoes realizadas: 7
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 300.txt | N = 300 | Alvo = 294
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 300
+Indice Encontrado: 85 (-1 significa que nao existe)
+Tempo de execucao: 0.000101s | Comparacoes realizadas: 86
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 300
+Indice Encontrado: 150 (-1 significa que nao existe)
+Tempo de execucao: 0.000054s | Comparacoes realizadas: 23
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 300
+Indice Encontrado: 150 (-1 significa que nao existe)
+Tempo de execucao: 0.000059s | Comparacoes realizadas: 8
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 500.txt | N = 500 | Alvo = 478
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 500
+Indice Encontrado: 384 (-1 significa que nao existe)
+Tempo de execucao: 0.000546s | Comparacoes realizadas: 385
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 500
+Indice Encontrado: 250 (-1 significa que nao existe)
+Tempo de execucao: 0.000046s | Comparacoes realizadas: 20
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 500
+Indice Encontrado: 250 (-1 significa que nao existe)
+Tempo de execucao: 0.000040s | Comparacoes realizadas: 8
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 750.txt | N = 750 | Alvo = 750
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 750
+Indice Encontrado: 91 (-1 significa que nao existe)
+Tempo de execucao: 0.000091s | Comparacoes realizadas: 92
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 750
+Indice Encontrado: 375 (-1 significa que nao existe)
+Tempo de execucao: 0.000108s | Comparacoes realizadas: 38
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 750
+Indice Encontrado: 375 (-1 significa que nao existe)
+Tempo de execucao: 0.000050s | Comparacoes realizadas: 9
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 1000.txt | N = 1000 | Alvo = 987
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 1000
+Indice Encontrado: 731 (-1 significa que nao existe)
+Tempo de execucao: 0.001405s | Comparacoes realizadas: 732
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 1000
+Indice Encontrado: 500 (-1 significa que nao existe)
+Tempo de execucao: 0.000137s | Comparacoes realizadas: 21
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 1000
+Indice Encontrado: 500 (-1 significa que nao existe)
+Tempo de execucao: 0.000154s | Comparacoes realizadas: 9
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 1500.txt | N = 1500 | Alvo = 1463
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 1500
+Indice Encontrado: 259 (-1 significa que nao existe)
+Tempo de execucao: 0.000409s | Comparacoes realizadas: 260
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 1500
+Indice Encontrado: 750 (-1 significa que nao existe)
+Tempo de execucao: 0.000290s | Comparacoes realizadas: 48
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 1500
+Indice Encontrado: 750 (-1 significa que nao existe)
+Tempo de execucao: 0.000109s | Comparacoes realizadas: 10
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 2000.txt | N = 2000 | Alvo = 1948
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 2000
+Indice Encontrado: 1044 (-1 significa que nao existe)
+Tempo de execucao: 0.003710s | Comparacoes realizadas: 1045
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 2000
+Indice Encontrado: 1000 (-1 significa que nao existe)
+Tempo de execucao: 0.000326s | Comparacoes realizadas: 55
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 2000
+Indice Encontrado: 1000 (-1 significa que nao existe)
+Tempo de execucao: 0.000114s | Comparacoes realizadas: 10
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 3000.txt | N = 3000 | Alvo = 2931
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 3000
+Indice Encontrado: 426 (-1 significa que nao existe)
+Tempo de execucao: 0.001168s | Comparacoes realizadas: 427
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 3000
+Indice Encontrado: 1500 (-1 significa que nao existe)
+Tempo de execucao: 0.000484s | Comparacoes realizadas: 70
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 3000
+Indice Encontrado: 1500 (-1 significa que nao existe)
+Tempo de execucao: 0.000100s | Comparacoes realizadas: 11
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 5000.txt | N = 5000 | Alvo = 4933
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 5000
+Indice Encontrado: 2150 (-1 significa que nao existe)
+Tempo de execucao: 0.008663s | Comparacoes realizadas: 2151
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 5000
+Indice Encontrado: 2500 (-1 significa que nao existe)
+Tempo de execucao: 0.000538s | Comparacoes realizadas: 86
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 5000
+Indice Encontrado: 2500 (-1 significa que nao existe)
+Tempo de execucao: 0.000118s | Comparacoes realizadas: 12
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 7500.txt | N = 7500 | Alvo = 7294
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 7500
+Indice Encontrado: 7249 (-1 significa que nao existe)
+Tempo de execucao: 0.030949s | Comparacoes realizadas: 7250
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 7500
+Indice Encontrado: 3750 (-1 significa que nao existe)
+Tempo de execucao: 0.000587s | Comparacoes realizadas: 96
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 7500
+Indice Encontrado: 3750 (-1 significa que nao existe)
+Tempo de execucao: 0.000126s | Comparacoes realizadas: 12
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 10000.txt | N = 10000 | Alvo = 9664
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 10000
+Indice Encontrado: 9715 (-1 significa que nao existe)
+Tempo de execucao: 0.042255s | Comparacoes realizadas: 9716
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 10000
+Indice Encontrado: 5000 (-1 significa que nao existe)
+Tempo de execucao: 0.000372s | Comparacoes realizadas: 51
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 10000
+Indice Encontrado: 5000 (-1 significa que nao existe)
+Tempo de execucao: 0.000128s | Comparacoes realizadas: 13
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 12500.txt | N = 12500 | Alvo = 11997
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 12500
+Indice Encontrado: 8831 (-1 significa que nao existe)
+Tempo de execucao: 0.041943s | Comparacoes realizadas: 8832
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 12500
+Indice Encontrado: 6250 (-1 significa que nao existe)
+Tempo de execucao: 0.000594s | Comparacoes realizadas: 91
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 12500
+Indice Encontrado: 6250 (-1 significa que nao existe)
+Tempo de execucao: 0.000157s | Comparacoes realizadas: 13
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 15000.txt | N = 15000 | Alvo = 14791
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 15000
+Indice Encontrado: 4287 (-1 significa que nao existe)
+Tempo de execucao: 0.019146s | Comparacoes realizadas: 4288
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 15000
+Indice Encontrado: 7500 (-1 significa que nao existe)
+Tempo de execucao: 0.000760s | Comparacoes realizadas: 120
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 15000
+Indice Encontrado: 7500 (-1 significa que nao existe)
+Tempo de execucao: 0.000132s | Comparacoes realizadas: 13
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 20000.txt | N = 20000 | Alvo = 16236
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 20000
+Indice Encontrado: 2154 (-1 significa que nao existe)
+Tempo de execucao: 0.009214s | Comparacoes realizadas: 2155
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 20000
+Indice Encontrado: 10000 (-1 significa que nao existe)
+Tempo de execucao: 0.000877s | Comparacoes realizadas: 201
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 20000
+Indice Encontrado: 10000 (-1 significa que nao existe)
+Tempo de execucao: 0.000137s | Comparacoes realizadas: 14
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 25000.txt | N = 25000 | Alvo = 16401
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 25000
+Indice Encontrado: 12276 (-1 significa que nao existe)
+Tempo de execucao: 0.063808s | Comparacoes realizadas: 12277
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 25000
+Indice Encontrado: 12500 (-1 significa que nao existe)
+Tempo de execucao: 0.000671s | Comparacoes realizadas: 98
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 25000
+Indice Encontrado: 12500 (-1 significa que nao existe)
+Tempo de execucao: 0.000125s | Comparacoes realizadas: 14
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 30000.txt | N = 30000 | Alvo = 16361
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 30000
+Indice Encontrado: 5724 (-1 significa que nao existe)
+Tempo de execucao: 0.025684s | Comparacoes realizadas: 5725
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 30000
+Indice Encontrado: 15000 (-1 significa que nao existe)
+Tempo de execucao: 0.001254s | Comparacoes realizadas: 209
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 30000
+Indice Encontrado: 15000 (-1 significa que nao existe)
+Tempo de execucao: 0.000139s | Comparacoes realizadas: 14
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 40000.txt | N = 40000 | Alvo = 20001
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 40000
+Indice Encontrado: 9812 (-1 significa que nao existe)
+Tempo de execucao: 0.051676s | Comparacoes realizadas: 9813
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 40000
+Indice Encontrado: 20000 (-1 significa que nao existe)
+Tempo de execucao: 0.000732s | Comparacoes realizadas: 101
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 40000
+Indice Encontrado: 20000 (-1 significa que nao existe)
+Tempo de execucao: 0.000147s | Comparacoes realizadas: 15
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 50000.txt | N = 50000 | Alvo = 25001
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 50000
+Indice Encontrado: 1553 (-1 significa que nao existe)
+Tempo de execucao: 0.006498s | Comparacoes realizadas: 1554
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 50000
+Indice Encontrado: 25000 (-1 significa que nao existe)
+Tempo de execucao: 0.000927s | Comparacoes realizadas: 137
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 50000
+Indice Encontrado: 25000 (-1 significa que nao existe)
+Tempo de execucao: 0.000149s | Comparacoes realizadas: 15
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 75000.txt | N = 75000 | Alvo = 37501
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 75000
+Indice Encontrado: 37500 (-1 significa que nao existe)
+Tempo de execucao: 0.178204s | Comparacoes realizadas: 37501
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 75000
+Indice Encontrado: 37500 (-1 significa que nao existe)
+Tempo de execucao: 0.001583s | Comparacoes realizadas: 237
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 75000
+Indice Encontrado: 37500 (-1 significa que nao existe)
+Tempo de execucao: 0.000166s | Comparacoes realizadas: 16
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 100000.txt | N = 100000 | Alvo = 50001
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 100000
+Indice Encontrado: 50000 (-1 significa que nao existe)
+Tempo de execucao: 0.247963s | Comparacoes realizadas: 50001
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 100000
+Indice Encontrado: 50000 (-1 significa que nao existe)
+Tempo de execucao: 0.001617s | Comparacoes realizadas: 231
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 100000
+Indice Encontrado: 50000 (-1 significa que nao existe)
+Tempo de execucao: 0.000169s | Comparacoes realizadas: 16
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 125000.txt | N = 125000 | Alvo = 62501
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 125000
+Indice Encontrado: 62500 (-1 significa que nao existe)
+Tempo de execucao: 0.282135s | Comparacoes realizadas: 62501
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 125000
+Indice Encontrado: 62500 (-1 significa que nao existe)
+Tempo de execucao: 0.001370s | Comparacoes realizadas: 197
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 125000
+Indice Encontrado: 62500 (-1 significa que nao existe)
+Tempo de execucao: 0.000169s | Comparacoes realizadas: 16
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 150000.txt | N = 150000 | Alvo = 75001
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 150000
+Indice Encontrado: 75000 (-1 significa que nao existe)
+Tempo de execucao: 0.347411s | Comparacoes realizadas: 75001
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 150000
+Indice Encontrado: 75000 (-1 significa que nao existe)
+Tempo de execucao: 0.001898s | Comparacoes realizadas: 503
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 150000
+Indice Encontrado: 75000 (-1 significa que nao existe)
+Tempo de execucao: 0.000095s | Comparacoes realizadas: 17
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 175000.txt | N = 175000 | Alvo = 87501
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 175000
+Indice Encontrado: 87500 (-1 significa que nao existe)
+Tempo de execucao: 0.209931s | Comparacoes realizadas: 87501
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 175000
+Indice Encontrado: 87500 (-1 significa que nao existe)
+Tempo de execucao: 0.001306s | Comparacoes realizadas: 348
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 175000
+Indice Encontrado: 87500 (-1 significa que nao existe)
+Tempo de execucao: 0.000090s | Comparacoes realizadas: 17
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 200000.txt | N = 200000 | Alvo = 100001
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 200000
+Indice Encontrado: 100000 (-1 significa que nao existe)
+Tempo de execucao: 0.237176s | Comparacoes realizadas: 100001
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 200000
+Indice Encontrado: 100000 (-1 significa que nao existe)
+Tempo de execucao: 0.002103s | Comparacoes realizadas: 543
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 200000
+Indice Encontrado: 100000 (-1 significa que nao existe)
+Tempo de execucao: 0.000097s | Comparacoes realizadas: 17
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 225000.txt | N = 225000 | Alvo = 112501
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 225000
+Indice Encontrado: 112500 (-1 significa que nao existe)
+Tempo de execucao: 0.271411s | Comparacoes realizadas: 112501
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 225000
+Indice Encontrado: 112500 (-1 significa que nao existe)
+Tempo de execucao: 0.001501s | Comparacoes realizadas: 400
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 225000
+Indice Encontrado: 112500 (-1 significa que nao existe)
+Tempo de execucao: 0.000101s | Comparacoes realizadas: 17
+Memoria usada (pico): 39.65 KB
+============================================================
+Arquivo: 250000.txt | N = 250000 | Alvo = 125001
+--------------------------------------------------
+Metodo: Busca Sequencial
+Total de elementos (N): 250000
+Indice Encontrado: 125000 (-1 significa que nao existe)
+Tempo de execucao: 0.317401s | Comparacoes realizadas: 125001
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Jump
+Total de elementos (N): 250000
+Indice Encontrado: 125000 (-1 significa que nao existe)
+Tempo de execucao: 0.000943s | Comparacoes realizadas: 251
+Memoria usada (pico): 39.65 KB
+--------------------------------------------------
+Metodo: Busca Binaria
+Total de elementos (N): 250000
+Indice Encontrado: 125000 (-1 significa que nao existe)
+Tempo de execucao: 0.000107s | Comparacoes realizadas: 17
+Memoria usada (pico): 39.65 KB
+
+============================================================
+RESUMO GERAL
+============================================================
+{'algoritmo': 'Busca Sequencial', 'N': 50, 'tempo': 4.223099995215307e-05, 'comparacoes': 4, 'memoria_kb': 39.646484375, 'indice': 3}
+{'algoritmo': 'Busca Jump', 'N': 50, 'tempo': 3.55150000359572e-05, 'comparacoes': 8, 'memoria_kb': 39.646484375, 'indice': 25}
+{'algoritmo': 'Busca Binaria', 'N': 50, 'tempo': 1.8105999970430275e-05, 'comparacoes': 5, 'memoria_kb': 39.646484375, 'indice': 25}
+{'algoritmo': 'Busca Sequencial', 'N': 100, 'tempo': 8.457900003122631e-05, 'comparacoes': 87, 'memoria_kb': 39.646484375, 'indice': 86}
+{'algoritmo': 'Busca Jump', 'N': 100, 'tempo': 2.391599991824478e-05, 'comparacoes': 6, 'memoria_kb': 39.646484375, 'indice': 50}
+{'algoritmo': 'Busca Binaria', 'N': 100, 'tempo': 1.8560999933470157e-05, 'comparacoes': 6, 'memoria_kb': 39.646484375, 'indice': 50}
+{'algoritmo': 'Busca Sequencial', 'N': 200, 'tempo': 9.423100004823937e-05, 'comparacoes': 93, 'memoria_kb': 39.646484375, 'indice': 92}
+{'algoritmo': 'Busca Jump', 'N': 200, 'tempo': 2.8062000183126656e-05, 'comparacoes': 10, 'memoria_kb': 39.646484375, 'indice': 100}
+{'algoritmo': 'Busca Binaria', 'N': 200, 'tempo': 2.1086999822728103e-05, 'comparacoes': 7, 'memoria_kb': 39.646484375, 'indice': 100}
+{'algoritmo': 'Busca Sequencial', 'N': 300, 'tempo': 0.00010082900007546414, 'comparacoes': 86, 'memoria_kb': 39.646484375, 'indice': 85}
+{'algoritmo': 'Busca Jump', 'N': 300, 'tempo': 5.421399987426412e-05, 'comparacoes': 23, 'memoria_kb': 39.646484375, 'indice': 150}
+{'algoritmo': 'Busca Binaria', 'N': 300, 'tempo': 5.8670000044003245e-05, 'comparacoes': 8, 'memoria_kb': 39.646484375, 'indice': 150}
+{'algoritmo': 'Busca Sequencial', 'N': 500, 'tempo': 0.0005463350000809442, 'comparacoes': 385, 'memoria_kb': 39.646484375, 'indice': 384}
+{'algoritmo': 'Busca Jump', 'N': 500, 'tempo': 4.569899988382531e-05, 'comparacoes': 20, 'memoria_kb': 39.646484375, 'indice': 250}
+{'algoritmo': 'Busca Binaria', 'N': 500, 'tempo': 3.992999995716673e-05, 'comparacoes': 8, 'memoria_kb': 39.646484375, 'indice': 250}
+{'algoritmo': 'Busca Sequencial', 'N': 750, 'tempo': 9.125299993684166e-05, 'comparacoes': 92, 'memoria_kb': 39.646484375, 'indice': 91}
+{'algoritmo': 'Busca Jump', 'N': 750, 'tempo': 0.00010778699993352348, 'comparacoes': 38, 'memoria_kb': 39.646484375, 'indice': 375}
+{'algoritmo': 'Busca Binaria', 'N': 750, 'tempo': 4.986999988432217e-05, 'comparacoes': 9, 'memoria_kb': 39.646484375, 'indice': 375}
+{'algoritmo': 'Busca Sequencial', 'N': 1000, 'tempo': 0.00140513400015152, 'comparacoes': 732, 'memoria_kb': 39.646484375, 'indice': 731}
+{'algoritmo': 'Busca Jump', 'N': 1000, 'tempo': 0.00013681700011147768, 'comparacoes': 21, 'memoria_kb': 39.646484375, 'indice': 500}
+{'algoritmo': 'Busca Binaria', 'N': 1000, 'tempo': 0.00015371400013464154, 'comparacoes': 9, 'memoria_kb': 39.646484375, 'indice': 500}
+{'algoritmo': 'Busca Sequencial', 'N': 1500, 'tempo': 0.0004091209998478007, 'comparacoes': 260, 'memoria_kb': 39.646484375, 'indice': 259}
+{'algoritmo': 'Busca Jump', 'N': 1500, 'tempo': 0.0002904440000293107, 'comparacoes': 48, 'memoria_kb': 39.646484375, 'indice': 750}
+{'algoritmo': 'Busca Binaria', 'N': 1500, 'tempo': 0.00010898800019276678, 'comparacoes': 10, 'memoria_kb': 39.646484375, 'indice': 750}
+{'algoritmo': 'Busca Sequencial', 'N': 2000, 'tempo': 0.0037101630000506702, 'comparacoes': 1045, 'memoria_kb': 39.646484375, 'indice': 1044}
+{'algoritmo': 'Busca Jump', 'N': 2000, 'tempo': 0.0003263469998273649, 'comparacoes': 55, 'memoria_kb': 39.646484375, 'indice': 1000}
+{'algoritmo': 'Busca Binaria', 'N': 2000, 'tempo': 0.0001135349998548918, 'comparacoes': 10, 'memoria_kb': 39.646484375, 'indice': 1000}
+{'algoritmo': 'Busca Sequencial', 'N': 3000, 'tempo': 0.0011677070001496759, 'comparacoes': 427, 'memoria_kb': 39.646484375, 'indice': 426}
+{'algoritmo': 'Busca Jump', 'N': 3000, 'tempo': 0.000483614000131638, 'comparacoes': 70, 'memoria_kb': 39.646484375, 'indice': 1500}
+{'algoritmo': 'Busca Binaria', 'N': 3000, 'tempo': 0.00010010899995904765, 'comparacoes': 11, 'memoria_kb': 39.646484375, 'indice': 1500}
+{'algoritmo': 'Busca Sequencial', 'N': 5000, 'tempo': 0.008663414000011471, 'comparacoes': 2151, 'memoria_kb': 39.646484375, 'indice': 2150}
+{'algoritmo': 'Busca Jump', 'N': 5000, 'tempo': 0.0005381779999424907, 'comparacoes': 86, 'memoria_kb': 39.646484375, 'indice': 2500}
+{'algoritmo': 'Busca Binaria', 'N': 5000, 'tempo': 0.00011812000002464629, 'comparacoes': 12, 'memoria_kb': 39.646484375, 'indice': 2500}
+{'algoritmo': 'Busca Sequencial', 'N': 7500, 'tempo': 0.030948641999884785, 'comparacoes': 7250, 'memoria_kb': 39.646484375, 'indice': 7249}
+{'algoritmo': 'Busca Jump', 'N': 7500, 'tempo': 0.00058678699997472, 'comparacoes': 96, 'memoria_kb': 39.646484375, 'indice': 3750}
+{'algoritmo': 'Busca Binaria', 'N': 7500, 'tempo': 0.00012639299984584795, 'comparacoes': 12, 'memoria_kb': 39.646484375, 'indice': 3750}
+{'algoritmo': 'Busca Sequencial', 'N': 10000, 'tempo': 0.04225462099998367, 'comparacoes': 9716, 'memoria_kb': 39.646484375, 'indice': 9715}
+{'algoritmo': 'Busca Jump', 'N': 10000, 'tempo': 0.0003721169998698315, 'comparacoes': 51, 'memoria_kb': 39.646484375, 'indice': 5000}
+{'algoritmo': 'Busca Binaria', 'N': 10000, 'tempo': 0.00012825499993596168, 'comparacoes': 13, 'memoria_kb': 39.646484375, 'indice': 5000}
+{'algoritmo': 'Busca Sequencial', 'N': 12500, 'tempo': 0.04194266199988306, 'comparacoes': 8832, 'memoria_kb': 39.646484375, 'indice': 8831}
+{'algoritmo': 'Busca Jump', 'N': 12500, 'tempo': 0.0005942759999015834, 'comparacoes': 91, 'memoria_kb': 39.646484375, 'indice': 6250}
+{'algoritmo': 'Busca Binaria', 'N': 12500, 'tempo': 0.00015680100000281527, 'comparacoes': 13, 'memoria_kb': 39.646484375, 'indice': 6250}
+{'algoritmo': 'Busca Sequencial', 'N': 15000, 'tempo': 0.01914578200012329, 'comparacoes': 4288, 'memoria_kb': 39.646484375, 'indice': 4287}
+{'algoritmo': 'Busca Jump', 'N': 15000, 'tempo': 0.0007604439999795432, 'comparacoes': 120, 'memoria_kb': 39.646484375, 'indice': 7500}
+{'algoritmo': 'Busca Binaria', 'N': 15000, 'tempo': 0.00013158499996279716, 'comparacoes': 13, 'memoria_kb': 39.646484375, 'indice': 7500}
+{'algoritmo': 'Busca Sequencial', 'N': 20000, 'tempo': 0.009213640999860218, 'comparacoes': 2155, 'memoria_kb': 39.646484375, 'indice': 2154}
+{'algoritmo': 'Busca Jump', 'N': 20000, 'tempo': 0.0008769700000357261, 'comparacoes': 201, 'memoria_kb': 39.646484375, 'indice': 10000}
+{'algoritmo': 'Busca Binaria', 'N': 20000, 'tempo': 0.00013674599995283643, 'comparacoes': 14, 'memoria_kb': 39.646484375, 'indice': 10000}
+{'algoritmo': 'Busca Sequencial', 'N': 25000, 'tempo': 0.06380798899999718, 'comparacoes': 12277, 'memoria_kb': 39.646484375, 'indice': 12276}
+{'algoritmo': 'Busca Jump', 'N': 25000, 'tempo': 0.0006713689999742201, 'comparacoes': 98, 'memoria_kb': 39.646484375, 'indice': 12500}
+{'algoritmo': 'Busca Binaria', 'N': 25000, 'tempo': 0.0001249239999197016, 'comparacoes': 14, 'memoria_kb': 39.646484375, 'indice': 12500}
+{'algoritmo': 'Busca Sequencial', 'N': 30000, 'tempo': 0.025684311999839338, 'comparacoes': 5725, 'memoria_kb': 39.646484375, 'indice': 5724}
+{'algoritmo': 'Busca Jump', 'N': 30000, 'tempo': 0.0012543489999643498, 'comparacoes': 209, 'memoria_kb': 39.646484375, 'indice': 15000}
+{'algoritmo': 'Busca Binaria', 'N': 30000, 'tempo': 0.00013868099995306693, 'comparacoes': 14, 'memoria_kb': 39.646484375, 'indice': 15000}
+{'algoritmo': 'Busca Sequencial', 'N': 40000, 'tempo': 0.05167591200006427, 'comparacoes': 9813, 'memoria_kb': 39.646484375, 'indice': 9812}
+{'algoritmo': 'Busca Jump', 'N': 40000, 'tempo': 0.0007324840000819677, 'comparacoes': 101, 'memoria_kb': 39.646484375, 'indice': 20000}
+{'algoritmo': 'Busca Binaria', 'N': 40000, 'tempo': 0.0001473790000545705, 'comparacoes': 15, 'memoria_kb': 39.646484375, 'indice': 20000}
+{'algoritmo': 'Busca Sequencial', 'N': 50000, 'tempo': 0.006498491999991529, 'comparacoes': 1554, 'memoria_kb': 39.646484375, 'indice': 1553}
+{'algoritmo': 'Busca Jump', 'N': 50000, 'tempo': 0.0009265769999728946, 'comparacoes': 137, 'memoria_kb': 39.646484375, 'indice': 25000}
+{'algoritmo': 'Busca Binaria', 'N': 50000, 'tempo': 0.0001492619999226008, 'comparacoes': 15, 'memoria_kb': 39.646484375, 'indice': 25000}
+{'algoritmo': 'Busca Sequencial', 'N': 75000, 'tempo': 0.17820409399996606, 'comparacoes': 37501, 'memoria_kb': 39.646484375, 'indice': 37500}
+{'algoritmo': 'Busca Jump', 'N': 75000, 'tempo': 0.0015827830000034737, 'comparacoes': 237, 'memoria_kb': 39.646484375, 'indice': 37500}
+{'algoritmo': 'Busca Binaria', 'N': 75000, 'tempo': 0.00016593999998804065, 'comparacoes': 16, 'memoria_kb': 39.646484375, 'indice': 37500}
+{'algoritmo': 'Busca Sequencial', 'N': 100000, 'tempo': 0.24796335200016983, 'comparacoes': 50001, 'memoria_kb': 39.646484375, 'indice': 50000}
+{'algoritmo': 'Busca Jump', 'N': 100000, 'tempo': 0.0016171629999917059, 'comparacoes': 231, 'memoria_kb': 39.646484375, 'indice': 50000}
+{'algoritmo': 'Busca Binaria', 'N': 100000, 'tempo': 0.00016888899995137763, 'comparacoes': 16, 'memoria_kb': 39.646484375, 'indice': 50000}
+{'algoritmo': 'Busca Sequencial', 'N': 125000, 'tempo': 0.2821346860000631, 'comparacoes': 62501, 'memoria_kb': 39.646484375, 'indice': 62500}
+{'algoritmo': 'Busca Jump', 'N': 125000, 'tempo': 0.0013704160000997945, 'comparacoes': 197, 'memoria_kb': 39.646484375, 'indice': 62500}
+{'algoritmo': 'Busca Binaria', 'N': 125000, 'tempo': 0.00016860699997778283, 'comparacoes': 16, 'memoria_kb': 39.646484375, 'indice': 62500}
+{'algoritmo': 'Busca Sequencial', 'N': 150000, 'tempo': 0.34741112999995494, 'comparacoes': 75001, 'memoria_kb': 39.646484375, 'indice': 75000}
+{'algoritmo': 'Busca Jump', 'N': 150000, 'tempo': 0.0018976930000462744, 'comparacoes': 503, 'memoria_kb': 39.646484375, 'indice': 75000}
+{'algoritmo': 'Busca Binaria', 'N': 150000, 'tempo': 9.516999989500619e-05, 'comparacoes': 17, 'memoria_kb': 39.646484375, 'indice': 75000}
+{'algoritmo': 'Busca Sequencial', 'N': 175000, 'tempo': 0.20993094300001758, 'comparacoes': 87501, 'memoria_kb': 39.646484375, 'indice': 87500}
+{'algoritmo': 'Busca Jump', 'N': 175000, 'tempo': 0.001306070999817166, 'comparacoes': 348, 'memoria_kb': 39.646484375, 'indice': 87500}
+{'algoritmo': 'Busca Binaria', 'N': 175000, 'tempo': 9.047700018527394e-05, 'comparacoes': 17, 'memoria_kb': 39.646484375, 'indice': 87500}
+{'algoritmo': 'Busca Sequencial', 'N': 200000, 'tempo': 0.23717571099996348, 'comparacoes': 100001, 'memoria_kb': 39.646484375, 'indice': 100000}
+{'algoritmo': 'Busca Jump', 'N': 200000, 'tempo': 0.0021026469999014807, 'comparacoes': 543, 'memoria_kb': 39.646484375, 'indice': 100000}
+{'algoritmo': 'Busca Binaria', 'N': 200000, 'tempo': 9.663399987402954e-05, 'comparacoes': 17, 'memoria_kb': 39.646484375, 'indice': 100000}
+{'algoritmo': 'Busca Sequencial', 'N': 225000, 'tempo': 0.2714110740000706, 'comparacoes': 112501, 'memoria_kb': 39.646484375, 'indice': 112500}
+{'algoritmo': 'Busca Jump', 'N': 225000, 'tempo': 0.0015009920000466082, 'comparacoes': 400, 'memoria_kb': 39.646484375, 'indice': 112500}
+{'algoritmo': 'Busca Binaria', 'N': 225000, 'tempo': 0.0001007350001600571, 'comparacoes': 17, 'memoria_kb': 39.646484375, 'indice': 112500}
+{'algoritmo': 'Busca Sequencial', 'N': 250000, 'tempo': 0.3174007050001819, 'comparacoes': 125001, 'memoria_kb': 39.646484375, 'indice': 125000}
+{'algoritmo': 'Busca Jump', 'N': 250000, 'tempo': 0.0009434850001071027, 'comparacoes': 251, 'memoria_kb': 39.646484375, 'indice': 125000}
+{'algoritmo': 'Busca Binaria', 'N': 250000, 'tempo': 0.000107001999822387, 'comparacoes': 17, 'memoria_kb': 39.646484375, 'indice': 125000}
+
+Tabela final:
+           algoritmo       N     tempo  comparacoes  memoria_kb  indice
+0   Busca Sequencial      50  0.000042            4   39.646484       3
+1         Busca Jump      50  0.000036            8   39.646484      25
+2      Busca Binaria      50  0.000018            5   39.646484      25
+3   Busca Sequencial     100  0.000085           87   39.646484      86
+4         Busca Jump     100  0.000024            6   39.646484      50
+..               ...     ...       ...          ...         ...     ...
+79        Busca Jump  225000  0.001501          400   39.646484  112500
+80     Busca Binaria  225000  0.000101           17   39.646484  112500
+81  Busca Sequencial  250000  0.317401       125001   39.646484  125000
+82        Busca Jump  250000  0.000943          251   39.646484  125000
+83     Busca Binaria  250000  0.000107           17   39.646484  125000
+
+[84 rows x 6 columns]
